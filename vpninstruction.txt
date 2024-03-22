@@ -1,0 +1,27 @@
+WIFI: Siddhartha_fibernet
+password:sbgh123#$
+
+VPN
+
+Requirement:
+1. internet
+
+2. vpn.donidcr.gov.np
+3. vpn client(cisco anyconnect)
+4. vpn username and password
+
+steps:
+daily bihana 1 choti 
+
+system access garne:(ahile chalai rakhnu vako 
+username/password)
+ghatnadarta / samajik surakshya system ko
+username and password 
+
+->client download garna: browser ma 
+
+ kholne
+username:demo
+password:P@ssw0rd
+
+
